@@ -1,0 +1,23 @@
+{
+  "name": "home-raider",
+  "version": "1.0.0",
+  "description": "Home Raider",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foritch1/home-raider.git"
+  },
+  "author": "foritch1@gmail.com",
+  "bugs": {
+    "url": "https://github.com/foritch1/home-raider/issues"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.205.0",
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "^3.1.0",
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.5",
+    "request": "^2.83.0"
+  }
+}
